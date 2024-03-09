@@ -9,6 +9,7 @@ namespace TechnicalHomework3
 {
     public partial class SiteMaster : MasterPage
     {
+        protected const string ApplicationName = "Capstone 1";
         protected void Page_Load(object sender, EventArgs e)
         {
 
